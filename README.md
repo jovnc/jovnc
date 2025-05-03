@@ -24,8 +24,8 @@ Specializing in **Software Engineering** and **Artificial Intelligence**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovnc&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jovnc&layout=compact&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovnc&show_icons=true&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jovnc&layout=compact&hide_border=true&theme=transparent)
 
 </div>
 
@@ -35,19 +35,11 @@ Specializing in **Software Engineering** and **Artificial Intelligence**
 
 <div align="center">
 
-[![t3template](https://github-readme-stats.vercel.app/api/pin/?username=jovnc&repo=t3template)](https://github.com/jovnc/t3template)
-[![hackforcities](https://github-readme-stats.vercel.app/api/pin/?username=jovnc&repo=hackforcities)](https://github.com/jovnc/hackforcities)
-[![fintech2025](https://github-readme-stats.vercel.app/api/pin/?username=jovnc&repo=fintech2025)](https://github.com/jovnc/fintech2025)
+[![t3template](https://github-readme-stats.vercel.app/api/pin/?username=jovnc&repo=t3template&theme=transparent)](https://github.com/jovnc/t3template)
+[![hackforcities](https://github-readme-stats.vercel.app/api/pin/?username=jovnc&repo=hackforcities&theme=transparent)](https://github.com/jovnc/hackforcities)
+[![fintech2025](https://github-readme-stats.vercel.app/api/pin/?username=jovnc&repo=fintech2025&theme=transparent)](https://github.com/jovnc/fintech2025)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/jovan-ng-chengen/)
-- [Email](mailto:your.email@example.com)
-
----
-
-<!-- You can add more sections like Skills, Blog Posts, or Achievements as you grow! -->
