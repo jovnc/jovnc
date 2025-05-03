@@ -8,19 +8,6 @@ Specializing in **Software Engineering** and **Artificial Intelligence**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-ng-chengen/)
 
----
-
-</div>
-
-## 🚀 About Me
-
-- 🎓 Computer Science student passionate about building impactful software
-- 🤖 Specializing in software engineering and artificial intelligence
-- 🌱 Always learning, always curious
-
----
-
-## 📈 GitHub Stats
 
 <div align="center">
 
@@ -29,9 +16,6 @@ Specializing in **Software Engineering** and **Artificial Intelligence**
 
 </div>
 
----
-
-## 📌 Featured Projects
 
 <div align="center">
 
@@ -41,5 +25,4 @@ Specializing in **Software Engineering** and **Artificial Intelligence**
 
 </div>
 
----
 
