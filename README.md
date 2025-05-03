@@ -31,8 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jovnc&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Jovan's GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovnc&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=jovnc&theme=transparent&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=-1" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -53,8 +51,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jovnc&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
-
----
