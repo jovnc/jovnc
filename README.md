@@ -25,16 +25,6 @@
 
 ---
 
-### 📊 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jovnc&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Jovan's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovnc&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
 ### ✨ Featured Projects
 
 <p align="center">
