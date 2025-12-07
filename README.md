@@ -25,19 +25,3 @@
 
 ---
 
-### ✨ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/jovnc/t3template" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jovnc&repo=t3template&theme=transparent" alt="t3template"/>
-  </a>
-  <a href="https://github.com/jovnc/hackforcities" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jovnc&repo=hackforcities&theme=transparent" alt="hackforcities"/>
-  </a>
-  <a href="https://github.com/jovnc/fintech2025" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jovnc&repo=fintech2025&theme=transparent" alt="fintech2025"/>
-  </a>
-</p>
-
----
-
